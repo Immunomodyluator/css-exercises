@@ -1,36 +1,36 @@
-# CSS Exercises
+# Упражнения CSS
 
-These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
+Эти упражнения состоят из серии заданий, связанных с CSS, призванных дополнить HTML и CSS-контент в The Odin Project (TOP). Их следует выполнять только по мере преподавания в ходе учебной программы.
 
-When doing these exercises, please use all documentation and resources you need to accomplish them. You are _not_ intended to have any of this stuff memorized at this point. Check the docs, use Google, and do what you need to do (besides checking the solutions) to get them done.
+При выполнении этих упражнений используйте всю необходимую документацию и ресурсы для их выполнения. На данный момент ты _не_ должен знать всё это наизусть. Проверьте документацию, воспользуйтесь Google и делайте всё, что нужно (кроме проверки решений), чтобы это сделать.
 
-> [!IMPORTANT]
-> We encourage you to practice your git skills by committing your changes and pushing them to your own fork.  However, please **DO NOT** open a Pull Request to have your solutions merged into this repo or to show your solution.  If we were to merge your changes the exercises would no longer be available as intended for new learners, and opening a PR only causes additional work for us, as we have to close it without merging.
+> [! ВАЖНО]
+> Мы призываем вас практиковать свои git-навыки, фиксируя изменения и направляя их в собственный форк.  Однако, пожалуйста, **НЕ ОТКРЫВАЙТЕ Pull Request, чтобы ваши решения были объединены с этим репозиторием или чтобы показать своё решение.  Если бы мы объединили ваши изменения, упражнения больше не были бы доступны для новых учащихся, как задумано, а открытие PR только добавило бы нам дополнительную работу, так как нам придётся закрывать его без слияния.
 
-## Contributing
+## Вклад
 
-If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
+Если у вас есть предложения по улучшению упражнения, идеи для нового упражнения или вы заметили проблему с упражнением, пожалуйста, не стесняйтесь открыть выпуск после тщательного ознакомления с нашим [руководством по вкладу](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
 
-## How To Use These Exercises
+## Как использовать эти упражнения
 
-1. **Fork this repository.**  
-   - A *fork* is your own copy of a repository stored on your GitHub account. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-1. **Clone your *forked* repository.**  
-   - A *clone* is a copy of a repository on your local machine. If you need help cloning to your local environment, you can learn how from the GitHub documentation on [cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
-1. Go to an exercise directory and open the HTML file in a web browser. You can open the file directly or use something like VSCode's Live Preview extension.
-1. For each exercise, read the README thoroughly before starting any work.
-    - Each README has a "Self Check" list. Use it as a list of **requirements** to make sure your solution matches the "Desired Outcome" image.
-1. Make your edits in the `index.html` and/or the `style.css` files in order to make the output in your browser look like the Desired Outcome image(s).
-    - Depending on the instructions of the exercise, you may only need to make edits in one of these files.
-1. Once you successfully finish an exercise, check TOP's example solution.
-    - You should not be checking the solution for an exercise until you finish it!
-    - If your solution differs from TOP's solution (and still passes the exercise's requirements), that is completely fine. The provided solution is only an example and there are always multiple approaches. Feel free to ask in our Discord if there are parts of the example solution you do not understand.
+1. **Форк этого репозитория.**  
+   - *fork* — это ваша собственная копия репозитория, хранящейся на вашем аккаунте GitHub. Чтобы узнать, как форковать репозиторий, ознакомьтесь с документацией GitHub о том, как [форковать репозиторию](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+1. **Клонируйте свой *форкированный* репозиторий.**  
+   - *клон* — это копия репозитория на вашем локальном компьютере. Если вам нужна помощь с клонированием в вашу локальную среду, вы можете узнать это из документации GitHub по [клонированию репозитория](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+1. Зайдите в каталог упражнений и откройте HTML-файл в веб-браузере. Вы можете открыть файл напрямую или воспользоваться, например, расширением Live Preview от VSCode.
+1. Для каждого упражнения тщательно прочитайте README перед началом работы.
+    - У каждого README есть список «Самопроверка». Используйте его как список **требований**, чтобы убедиться, что ваше решение совпадает с изображением «Желаемый результат».
+1. Сделайте правки в файлах 'index.html' и/или 'style.css', чтобы вывод в браузере выглядел как изображения Желаемого Результата.
+    - В зависимости от инструкции упражнения, возможно, придётся внести правки только в один из этих файлов.
+1. После успешного завершения упражнения ознакомьтесь с примером решения TOP.
+    - Не проверяйте решение для упражнения, пока не закончите!
+    - Если ваше решение отличается от решения TOP (и всё равно соответствует требованиям упражнения), это абсолютно нормально. Приведённое решение — лишь пример, и всегда существует несколько подходов. Не стесняйтесь спрашивать в нашем Discord, если есть части примера решения, которые вы не понимаете.
 
-> [!IMPORTANT]
-> Do not submit your solutions to this repo, as any PRs that do so will be closed without merging.
+> [! ВАЖНО]
+> Не отправляйте свои решения в этот репозиторий, так как любые PR, которые это сделают, будут закрыты без слияния.
 
-## Some Hints
-- The provided example solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (e.g. there might be a `body {}` in the given CSS and another `body {}` in the solution). When you are working on an exercise, it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
-- Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px` or that the margin is _exactly_ `42px`.
-- You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises, we make it explicit when this needs to happen.)
-- You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
+## Некоторые подсказки
+- Приведённые примеры решений размещают все изменения в _конце_ CSS-файла, что может дублировать некоторые селекторы (например, в данном CSS может быть 'тело {}' и другое 'тело {}' в решении). Когда вы работаете над упражнением, лучше добавить CSS в существующие селекторы, а не дублировать их в конце файла. Мы жертвуем этой лучшей практикой в наших официальных решениях, чтобы вам было яснее, что мы изменили для решения задачи.
+- Если это не указано в разделе самопроверки, не беспокойтесь о точном значении пикселей для таких параметров, как поля, заполнение и размер шрифта. Эти упражнения предназначены для проверки ваших знаний о CSS, а не для того, чтобы угадывать, что скриншот использует 'font: sans-serif bold 16px' или что поля _точно_ '42px'.
+- Возможно, вам придётся добавить некоторые элементы в ваш HTML, чтобы разместить всё в нужном месте. (В первых упражнениях мы чётко указываем, когда это необходимо.)
+- Возможно, вам потребуется добавить больше селекторов в ваш CSS-файл. Первые несколько упражнений почти полностью готовы для вас, но по мере продвижения вы обнаружите, что нужно добавлять всё больше селекторов, чтобы получить правильный результат.

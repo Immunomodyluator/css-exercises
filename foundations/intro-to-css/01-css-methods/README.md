@@ -1,24 +1,23 @@
-# Methods for Adding CSS
-In this exercise, you're going to practice adding CSS to an HTML file using all three methods: external CSS, internal CSS, and inline CSS. You should only be using type selectors for this exercise when adding styles via the external and internal methods. You should also use keywords for colors (e.g. "blue") instead of using RGB or HEX values.
+# Методы добавления CSS
+В этом упражнении вы потренируетесь добавлять CSS в HTML-файл всеми тремя методами: внешним CSS, внутренним CSS и встроенным CSS. Для этого упражнения следует использовать селекторы типов только при добавлении стилей через внешние и внутренние методы. Также следует использовать ключевые слова для цветов (например, «синий») вместо RGB или HEX.
 
-There are three elements for you to add styles to, each of which uses a different method of adding CSS to it, as noted in the outcome image below. All other exercises in this section will have a CSS file provided and linked for you, but for this exercise you will have to create the file and link it in the HTML file yourself. This is all about practicing using these different methods and getting the syntax right.
+Есть три элемента, к которым можно добавить стили, каждый из которых использует разный способ добавления CSS, как показано на итоговом изображении ниже. Все остальные упражнения в этом разделе будут иметь CSS-файл с ссылкой для вас, но для этого упражнения вам нужно создать файл и связать его в HTML-файле самостоятельно. Всё дело в практике с разными методами и правильном понимании синтаксиса.
 
-> ## Quick tip:
-> Do not worry about details in these exercises that are not specifically mentioned in the exercise or self check section. Because the desired outcomes are screenshots, your browser may show a different font, the colors may appear different on your machine, or the spacing between elements may look different. Only concern yourself with the specific items you are supposed to be learning for each exercise.
+> ## Быстрый совет:
+> Не переживайте из-за деталей этих упражнений, которые не указаны в разделе упражнений или самопроверки. Поскольку желаемые результаты — это скриншоты, браузер может показывать другой шрифт, цвета на компьютере могут выглядеть иначе, или интервалы между элементами могут выглядеть иначе. Занимайтесь только тем, которые нужно изучать для каждого упражнения.
 
-The properties you need to add to each element are:
+Свойства, которые нужно добавить к каждому элементу:
 
-* `div`: a red background, white text, a font size of 32px, center aligned, and bold
-* `p`: a green background, white text, and a font size of 18px
-* `button`: an orange background and a font size of 18px
+* 'div': красный фон, белый текст, размер шрифта 32px, выровненный по центру и выделенный жирным шрифтом
+* 'p': зелёный фон, белый текст и размер шрифта 18px
+* 'button': оранжевый фон и размер шрифта 18px
 
-## Desired Outcome
-![desired outcome](./desired-outcome.png)
+## Желаемый результат
+! [желаемый результат](./desired-outcome.png)
 
-
-### Self Check
-- Did you use all three methods of adding CSS to an HTML file?
-- Did you properly link the external CSS file in the HTML file?
-- Does the `div` element have CSS added via the external method?
-- Does the `p` element have CSS added via the internal method?
-- Does the `button` element have CSS added via the inline method?
+### Самопроверка
+- Вы использовали все три способа добавления CSS в HTML-файл?
+- Правильно ли вы связали внешний CSS-файл в HTML-файле?
+- Добавляется ли элемент 'div' CSS с помощью внешнего метода?
+- Добавляется ли элемент 'p' CSS внутренним методом?
+- Добавляется ли элемент 'button' CSS с помощью встроенного метода?
