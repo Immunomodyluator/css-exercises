@@ -1,21 +1,30 @@
-# Chaining Selectors
+# Цепные селекторы
 
-Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
+Авторство за изображения в этом упражнении принадлежит [Катхо Мутодо](https://linktr.ee/photobykatho_)
+и [Андреа Пиакквадио](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
 
+В этом упражнении мы предоставили вам полный HTML-файл и CSS-файл для работы. Цель этого упражнения — сосредоточиться на
+понимании того, как цепочку разных селекторов, а не только добавлять атрибуты.
 
-With this exercise, we've provided you with a complete HTML file and a CSS file to work with. The purpose of this exercise is to focus on understanding how to chain different selectors, rather than solely adding attributes.
+У нас есть два изображения для стилизации, каждое с двумя названиями классов, где одно из них общ. Цель здесь —
+объединить селекторы для обоих элементов, чтобы у каждого был уникальный стиль, несмотря на использование общего
+селектора классов. Например, вы хотите, чтобы элемент с X и Y имел один набор стилей, а элемент с X и Z — совершенно
+другой набор стилей. Мы также включили оригинальные изображения, чтобы вы могли видеть, как стили, которые будете
+добавлять, выглядят по сравнению с ними, поэтому не добавляйте к ним стили.
 
-We have two images for you to style, each with two class names, where one of the class names is shared. The goal here is to chain the selectors for both elements, so that each have a unique style applied, despite using a shared class selector. For example, you want an element that has both X and Y to have one set of styles, while an element with X and Z has a completely different set of styles. We included the original images as well, so that you can see how the styles you will be adding look in comparison, so do not add any styles to them.
+Свойства, которые нужно добавить к каждому элементу:
 
-The properties you need to add to each element are:
-
-* Make the element with both the `avatar` and `proportioned` classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).
-* Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
+* Сделайте элемент с классами «аватар» и «пропорциональный» шириной по 300 пикселей, затем придайте ему высоту, чтобы
+  сохранить исходные квадратные пропорции (не вводите значение пикселя для высоты!).
+* Сделайте элемент с классами «аватар» и «искажённый» шириной 200 пикселей, затем сделайте его высоту вдвое больше
+  ширины (здесь нужно закодировать значение пикселя).
 
 ## Desired Outcome
+
 ![desired outcome](./desired-outcome.png)
 
-### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+### Самопроверка
+
+- Правильно ли вы связали селекторы классов для каждого правила?
+- Сохраняет ли «пропорциональное» изображение свои исходные квадратные пропорции?
+- Выглядит ли «искажённое» изображение в итоге сжатым и, ну, искажённым?
