@@ -1,25 +1,39 @@
-# Class and ID Selectors
-Knowing how to add class and ID attributes to HTML elements, as well as use their respective selectors, is invaluable. It's important to practice using them.
+# Селекторы классов и идентификаторов
 
-There are several elements in the HTML file provided, which you will have to add either class or ID attributes to, as noted in the outcome image below. You will then have to add rules in the CSS file provided using the correct selector syntax. Look over the outcome image carefully, and try to keep in mind which elements look similarly styled (classes), which ones may be completely unique from the rest (ID), and which ones have slight variations from others (multiple classes).
+Умение добавлять атрибуты класса и ID к HTML-элементам, а также использовать соответствующие селекторы, бесценно. Важно
+практиковать их использование.
 
-It isn't entirely important which class or ID values you use, as the focus here is on being able to add the attributes and use the correct selector syntax to style elements. For the colors in this exercise, try using a non-keyword value (RGB, HEX, or HSL). The properties you need to add to each element are:
+В предоставленном HTML-файле есть несколько элементов, к которым вам нужно добавить либо класс, либо атрибуты ID, как
+указано на изображении результата ниже. Затем вам придётся добавить правила в предоставленный CSS-файл с использованием
+правильного синтаксиса селектора. Внимательно просматривайте изображение результата и старайтесь помнить, какие элементы
+выглядят по стилю похожим (классы), какие могут быть совершенно уникальны от остальных (ID), а какие имеют небольшие
+отличия от других (несколько классов).
 
-* **All odd numbered elements**: a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback
-* **The second element**: blue text and a font size of 36px
-* **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
-* **The fourth element**: a light green background, a font size of 24px, and bold
+Не так уж важно, какие значения класса или ID вы используете, так как здесь главное — добавить атрибуты и использовать
+правильный синтаксис селектора для стилизации элементов. Для цветов в этом упражнении попробуйте использовать неключевое
+значение (RGB, HEX или HSL). Свойства, которые нужно добавить к каждому элементу:
 
-Quick tip: in VS Code, you can change which format colors are displayed in RGB, HEX, or HSL by hovering over the color value in the CSS and clicking the top of the popup that appears!
+***Все элементы с нечётными номерами**: светло-красно-розовый фон и список шрифтов с надписями 'Verdana' и 'DejaVu Sans'
+с запасным вариантом 'sans-serif'
 
-> ### Note:
-> Part of your task is to add a font to _some_ of these items. Your browser's font's might be different than the one displayed in the desired outcome image. As long as you confirm that the fonts _are_ being applied to the right lines any differences are okay for this exercise.
+* **Второй элемент**: синий текст и размер шрифта 36px
+* **Третий элемент**: в дополнение к стилям для всех нечётных элементов добавить размер шрифта 24px
+* **Четвёртый элемент**: светло-зелёный фон, размер шрифта 24px и жирный шрифт
+
+Быстрый совет: в VS Code вы можете менять, какие форматы отображаются в RGB, HEX или HSL, наведя курсор на значение
+цвета в CSS и кликнув по верхней части всплывающего окна!
+
+> ### Примечание:
+> Часть вашей задачи — добавить шрифт к _некоторому_ из этих элементов. Шрифты вашего браузера могут отличаться от того,
+> что отображается на желаемом изображении результата. Если вы убедитесь, что шрифты _применяются_ к правильным строкам,
+> любые различия подходят для этого упражнения.
 
 ## Desired Outcome
+
 ![desired outcome](./desired-outcome.png)
 
+### Самопроверка
 
-### Self Check
-- Do the odd numbered `p` elements share a class?
-- Do the even numbered `div` elements have unique IDs?
-- Does the Number 3 element have multiple classes?
+- Нечётные элементы 'p' имеют общий класс?
+- Имеют ли чётные элементы 'div' уникальные идентификаторы?
+- Есть ли у элемента номер 3 несколько классов?
