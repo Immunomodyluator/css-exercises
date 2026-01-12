@@ -1,19 +1,25 @@
-# Grouping Selectors
+# Группировка селекторов
 
-Let's build a little off the previous exercise. Here, you're going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
+Давайте немного развием на предыдущем задании. Здесь вы дадите двум элементам уникальное название класса, а затем
+добавите правила для стилей, которые общи, а также их уникальные стили. Обязательно внимательно изучите изображение
+результатов ниже, чтобы понять, что уникально в каждом элементе и что их объединяет.
 
-This will help you further practice adding classes and using class selectors, so be sure you add the class attribute in the HTML file. For the remainder of these exercises, the format of any colors is entirely up to you; we trust you'll practice using the different values! The properties you need to add to each element are:
+Это поможет вам дальше практиковаться в добавлении классов и использовании селекторов классов, поэтому обязательно
+добавьте атрибут класса в HTML-файле. В остальных этих упражнениях формат любых цветов полностью зависит от вас; Мы
+надеемся, что вы будете практиковаться в использовании разных ценностей! Свойства, которые нужно добавить к каждому
+элементу:
 
-- **The first element**: a black background and white text
-- **The second element**: a yellow background
-- **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
+- **Первый элемент**: чёрный фон и белый текст
+- **Второй элемент**: жёлтый фон
+- **Оба элемента**: размер шрифта 28px и список шрифтов, содержащих 'Helvetica' и 'Times New Roman', с запасным
+  вариантом 'sans-serif'
 
-## Desired Outcome
+## Желаемый результат
 
 ![desired outcome](./desired-outcome.png)
 
-### Self Check
+### Самопроверка
 
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- У каждого элемента уникальное имя класса?
+- Вы использовали селектор группировки для стилей, которые объединяют оба элемента?
+- Вы создали отдельные правила для стилей, уникальных для каждого элемента?
