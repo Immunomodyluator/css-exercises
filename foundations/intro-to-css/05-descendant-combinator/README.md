@@ -1,18 +1,25 @@
-# Descendant Combinator
-Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn't.
+# Потомок-комбинатор
 
-The goal of this exercise is to apply styles to elements that are descendants of another element, while leaving elements that *aren't* descendants of that element unstyled.
+Понять, как работают комбинаторы, становится гораздо проще, если начать экспериментировать с ними и понять, на что
+именно они влияют, а что нет.
 
-You can use either type or class selectors for this exercise; use whichever you may feel you want to practice with more. The HTML file is set up (so no need to edit anything in it) such that any combination of selectors will work, so if you're feeling adventurous you can even try combining a type *and* class selector for the descendant combinator.
+Цель этого упражнения — применить стили к элементам, которые являются потомками другого элемента, оставляя элементы,
+которые *не являются* потомками этого элемента, без стилизации.
 
-The properties you need to add are:
+Для этого упражнения можно использовать выборщики типа или класса; Используй то, с чем хочешь потренироваться больше.
+HTML-файл настроен (так что редактировать в нём не нужно) так, что любая комбинация селекторов будет работать, так что
+если хочешь попробовать комбинировать селектор типа *и* класса для комбинатора потомства.
 
-* Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
+Свойства, которые нужно добавить, следующие:
+
+* Только элементы буквы 'p', являющиеся потомками элемента 'div', должны иметь жёлтый фон, красный текст, размер шрифта
+  20px и выровнянные по центру.
 
 ## Desired Outcome
+
 ![desired outcome](./desired-outcome.png)
 
+### Самопроверка
 
-### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+- Используются ли элементы, содержащие текст «This should be styled», правильные стили?
+- Элементы, содержащие текст «This should be unstyled», не применяются стили?
