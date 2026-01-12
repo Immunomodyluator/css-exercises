@@ -1,18 +1,26 @@
-# CSS Methods
+# Методы CSS
 
-This next exercise for CSS Foundations is going to give you a closer look at the cascade, in particular specificity and rule order. Both the HTML and CSS files are filled out for you, so instead of adding rules yourself, you will simply be editing what is provided.
+Следующее упражнение для CSS Foundations даст вам более подробный анализ каскада, в частности конкретность и порядок
+правил. И HTML, и CSS-файлы заполняются за вас, поэтому вместо того чтобы добавлять правила самостоятельно, вы просто
+редактируете то, что вам предоставляется.
 
-There are a few elements that have some sort of specificity or rule order issue in the provided CSS file. It's up to you to figure out what issue is affecting an element, and how to fix it. You can edit the CSS file by adding, removing, or editing selectors for a declaration block, or by moving declaration blocks around. **You should not edit the HTML file or any of the actual styles in the CSS**.
+В предоставленном CSS-файле есть несколько элементов, которые имеют некоторую специфичность или порядок правил. Вам
+решать, какая проблема влияет на элемент и как её исправить. Вы можете редактировать CSS-файл, добавляя, удаляя или
+редактируя селекторы для блока объявления, либо перемещая блоки объявлений. **Вам не следует редактировать HTML-файл или
+какие-либо реальные стили в CSS**.
 
-There are multiple ways to solve this exercise, so we have provided some of the possible solutions for each element.
+Существует несколько способов решения этого упражнения, поэтому мы предложили некоторые возможные решения для каждого
+элемента.
 
-Issues with the cascade can be the bane of their existence for many when it comes to CSS. While you won't become a cascade expert from this exercise alone, and there are other ways to deal with these issues, it is still super helpful to see how these issues affect our final styles and why it's important to order rules carefully.
+Проблемы с каскадом могут стать их проблемой для многих в CSS. Хотя только это упражнение не станет экспертом по
+каскаду, и есть другие способы справиться с этими проблемами, всё равно очень полезно понять, как они влияют на наши
+финальные стили и почему важно тщательно заказывать правила.
 
-## Desired Outcome
+## Желаемый результат
 
 ![desired outcome](./desired-outcome.png)
 
-### Self Check
+### Самопроверка
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Вы убедились, что не редактировали HTML-файл?
+- Если вы добавили селекторы в CSS, они нацелены на действительный HTML-элемент?
